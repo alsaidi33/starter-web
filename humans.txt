@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+   Ahmed Alsaidi ahmed@git.com @alsaidi
 
 # THANKS
 
