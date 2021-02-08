@@ -20,6 +20,7 @@ Please fork this repositoryand then issue Pull Requests for review.
 
 ### Copyright
 2014 Git.Training.
+first line
 
 second line
 
